@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.khudra_khamar.twa",
+        "sha256_cert_fingerprints": ["19:BE:59:4E:37:31:9E:27:26:7B:12:08:DE:DD:21:81:37:2D:40:8F:9B:CB:C7:17:9E:2C:62:C8:6F:7A:9A:8D"]
+      }
+    }]
